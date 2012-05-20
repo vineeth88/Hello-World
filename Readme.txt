@@ -1,4 +1,5 @@
-Hello Github.
+Hello World/Github
 
 This is my first repository.
-Hope to see many more.
+
+KThxBye
